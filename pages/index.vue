@@ -1,5 +1,13 @@
 <script setup lang="ts"></script>
 
 <template>
-	<div>index</div>
+	<div>
+		<HomepageHeroSection />
+
+		<HomepageFeaturedProperties />
+
+		<HomepageRecentlyListedProperties />
+
+		<HomepageExploreCategories />
+	</div>
 </template>
